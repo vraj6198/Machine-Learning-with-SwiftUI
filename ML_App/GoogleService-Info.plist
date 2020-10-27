@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>197923831635-66em1b8jvkk05b1b4r1pb7rihb89f3nn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.197923831635-66em1b8jvkk05b1b4r1pb7rihb89f3nn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3Gz5Fc06yI-Ow5EEJiK_F79UhwWthcd4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>197923831635</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vraj.ML-App</string>
+	<key>PROJECT_ID</key>
+	<string>mlapp-7af2c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mlapp-7af2c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:197923831635:ios:93db0d0acc65824ce06ba6</string>
+	<key>DATABASE_URL</key>
+	<string>https://mlapp-7af2c.firebaseio.com</string>
+</dict>
+</plist>
