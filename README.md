@@ -35,5 +35,6 @@ pod install
 import Firebase
 import MLKit
 ```
+<img src="https://github.com/vraj6198/Machine-Learning-with-SwiftUI/blob/main/ML_App.png" width="250" height="400">
 
  
